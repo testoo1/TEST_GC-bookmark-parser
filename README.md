@@ -1,6 +1,6 @@
 ### Google_Chrome_bookmark_parser
 
-![example](https://image.ibb.co/gWdjJk/Google_Chrome_bookmark_parser.png)
+![example](https://raw.githubusercontent.com/testoo1/TEST_GFOR/master/Python_GC%20bookmark%20parser/Google_Chrome_bookmark_parser.png)
 
 Программа читает все файлы, полученные экспортом закладок из Google Chrome\*, находящиеся с ней в одном каталоге, и для каждого из них формирует файл в Markdown разметке, со всеми найденными в этом файле ссылками, сгруппированными по домену\*\*.
 
